@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: codypy.github.io
-Token: dd003ce5b0e556a221218ae82ce85e7acd3cf8afdca6c32d72983c4387d098bf
